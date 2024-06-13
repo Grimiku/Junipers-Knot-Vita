@@ -1,5 +1,5 @@
-# Cradle Song Teaser (PS Vita port)
-A Cradle Song Teaser port for Playstation Vita console leveraging [Ren'Py Vita](https://github.com/SonicMastr/renpy-vita) by [SonicMastr](https://github.com/SonicMastr) which in turn is a port of [Ren'Py engine](https://www.renpy.org). The game itself is a short visual novel made back in 2011 by [Dischan](https://dischan.co). If you want more stats and info you can refer to [its entry](https://vndb.org/v9986) on VNDB. There a couple of new additions apart from just the game port (see Changelog for more info).
+# Juniper's Knot (PS Vita port)
+A Juniper's Knot port for Playstation Vita console leveraging [Ren'Py Vita](https://github.com/SonicMastr/renpy-vita) by [SonicMastr](https://github.com/SonicMastr) which in turn is a port of [Ren'Py engine](https://www.renpy.org). The game itself is a short visual novel made back in 2012 by [Dischan](https://dischan.co). If you want more stats and info you can refer to [its entry](https://vndb.org/v9986) on VNDB. There a couple of new additions apart from just the game port (see Changelog for more info).
 
 ## Requirements
 * Modded PS Vita (very easy to search for loading CFW online)
