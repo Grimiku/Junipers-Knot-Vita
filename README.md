@@ -18,7 +18,7 @@ The installation can take a up to 2 mins, the first startup of the game should b
 
 ### Getting the DLC "Thank you" message
 1. Buy the DLC to support the devs (should be just ~1 USD on Steam)
-2. Go into the Juniper's Knot directory on your PC - right-click the game in your library _Manage->Browse local files_. In the _game_ there should be an _img_ folder - copy that under the same directory on your Vita (ie. _ux0:app/JNPRSK099/game_). The image will now show up in Extras section's gallery once you finish the game
+2. Go into the Juniper's Knot directory on your PC - right-click the game in your library _Manage->Browse local files_. In the _game_ there should be an _img_ folder - copy that folder under the same directory on your Vita (ie. _ux0:app/JNPRSK099/game_). The image will now show up in Extras section's gallery once you finish the game
 3. Feel proud you supported the people who made the game
 
 ## Current Issues
