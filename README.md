@@ -24,6 +24,7 @@ The installation can take a up to 2 mins, the first startup of the game should b
 ## Current Issues
 * Occassional short lags when Ren'Py is loading new assests. Shouldn't be too much of a bother but it is still noticeable
 * Small GUI glitch under specific circumstances showing "toggle mute" while scrolling through main menu
+* For Polish translation there might be an error with displaying credits (language mismatch at one point)
   
 ## Changelog
 ### Initial Release - v00.99
@@ -31,7 +32,7 @@ The installation can take a up to 2 mins, the first startup of the game should b
 * Removed ability to change resolution
 * Added entirely new possibility of language selection upon first bootup. Please note only Polish and Turkish have the menus translated as the game is heavily image dependant and first translations lacked in that area. **Language selection is one-time only for now.** You have to reset persistent data in orded to choose it again. Not advised if you made other settings setup or cleared the game
 * Added entirely new help screen
-* Edited credit section
+* Edited credits section
 * Remapped certain keys to better adjust to the Vita
 
 
